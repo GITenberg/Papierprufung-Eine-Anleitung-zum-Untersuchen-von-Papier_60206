@@ -1,0 +1,25 @@
+_repo: Papierprufung-Eine-Anleitung-zum-Untersuchen-von-Papier_60206
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Herzberg, Wilhelm
+    birthdate: 1861
+    deathdate: 1945
+    gutenberg_agent_id: '50844'
+    url: http://www.gutenberg.org/2009/agents/50844
+description: ''
+gutenberg_issued: '2019-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60206'
+  lccn: agr03000074
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TS'
+- !lcsh 'Paper -- Testing'
+- GITenberg
+title: 'Papierprüfung: Eine Anleitung zum Untersuchen von Papier'
+url: http://www.gutenberg.org/ebooks/60206
